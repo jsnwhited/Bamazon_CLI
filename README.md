@@ -20,7 +20,7 @@ Enter the quantity
 Congratulations on your purchase! 
 
 
-![shopping](/bamazonGIF.gif)
+![shopping](/BamazonGIF.gif)
 
 
 
