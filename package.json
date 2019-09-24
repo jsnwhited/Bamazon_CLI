@@ -1,7 +1,6 @@
 {
   "name": "bamazon_cli",
   "version": "1.0.0",
-  "description": "",
   "main": "bamazonCustomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,11 @@
   "bugs": {
     "url": "https://github.com/jsnwhited/Bamazon_CLI/issues"
   },
-  "homepage": "https://github.com/jsnwhited/Bamazon_CLI#readme"
+  "homepage": "https://github.com/jsnwhited/Bamazon_CLI#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
 }
